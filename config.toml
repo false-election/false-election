@@ -1,5 +1,5 @@
 theme = "harbor"
-baseURL = "http://example.org/"
+baseURL = "https://false-election.github.io"
 title = "4.15 부정선거 게이트"
 paginate = 5
 languageCode = "en"
