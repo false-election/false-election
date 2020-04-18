@@ -1,6 +1,6 @@
 theme = "harbor"
 baseURL = "https://false-election.github.io/"
-title = "4.15 부정선거 게이트"
+title = "4.15 부정선거"
 paginate = 5
 languageCode = "en"
 DefaultContentLanguage = "en"
